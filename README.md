@@ -1,6 +1,6 @@
 # Metea Valley Robotics Code Repository
 **Welcome to Metea Valley Robotics!!!**
-Written By: Anissh Guruprasad \[Captain of MVHS Robotics - Metea Class of 2023\]
+**Written By:** Anissh Guruprasad \[Captain of MVHS Robotics - Metea Class of 2023\]
 
 ## Disclaimer
 First we would like to mention, this code is provided as a resource for you to learn how to code, get a head start in robotics, and get rid of the tedious process of building efficient code so your team can focus on the testing and development of your program, rather than substituting your effort for the sake of not doing any work. To combat this issue, you will have to write most of the code for your robot since every robot is different and we intend for this program to be used for multiple seasons of Vex Robotics.
