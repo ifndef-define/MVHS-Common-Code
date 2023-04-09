@@ -1,8 +1,11 @@
 # Metea Valley Robotics Code Repository
+
 **Welcome to Metea Valley Robotics!!!**
+
 **Written By:** Anissh Guruprasad \[Captain of MVHS Robotics - Metea Class of 2023\]
 
 ## Disclaimer
+
 First we would like to mention, this code is provided as a resource for you to learn how to code, get a head start in robotics, and get rid of the tedious process of building efficient code so your team can focus on the testing and development of your program, rather than substituting your effort for the sake of not doing any work. To combat this issue, you will have to write most of the code for your robot since every robot is different and we intend for this program to be used for multiple seasons of Vex Robotics.
 As per Vex Rules, **\< G6 \>** specifically applies in this case, so by having the team programmer(s) write the functional portion of the code, it is still legal to operate this repository.
 ---
@@ -17,6 +20,7 @@ Over the years, we the alumni of the MVHS Robotics Club have seen many teams str
 #### Repository Rules
 1) All code in this repository is **Copyright (C) of 17990 Ethereal and Metea Valley Robotics** under the MIT license. DO NOT SHARE THIS WITH OTHER ROBOTICS TEAMS OUTSIDE METEA. This can result in termination of this repository.
 2) You will still have to write most of the code for your robot.
+
  Every robot is different. Know that you will have to write most of the code for your team's robot. If you have coding questions, please see your Captains or consult to the Ethereal Robotics YouTube Channel for the [VexCode Coding Series](https://www.youtube.com/@etherealrobotics7005). (Yes I made these)
 3) You may make any changes/modifications to the code provided in this repository once you download it, however, I would recommend leaving the source code untouched, unless you know exactly what you are doing.
 4) Any bugs you find please submit an issue with details regarding the bug so that I can address the master copy.
