@@ -27,17 +27,20 @@ This repository will serve three purposes;
 
 ## Programs Provided in this Repository
 
-#### MV Head Start Template
+![alt text](https://github.com/ifndef-define/MVHS-Common-Code/raw/main/github-imgs/c++logo.png)
+### MV Head Start Template
 > This program is the heart of this repository. It is a template code that contains many preprogrammed features, code, auton development strategies and methods of organizations. This removes the bulk amount of the teidous programming, allowing programmers to implement their code and develop much more effecient and realiable programs in the time they have alloated. This repository will also allow teams who don't have backround in coding to utlize more advanced features, without needing to develop its respective code.
 
-#### Device Checker
+### Device Checker
 > A simple program that allows you to test each device with a constant source of data to ensure sensors are accurate and are working to the tolerance they are developed to.
 
-#### Features and Cool Things
+### Features and Cool Things
 > After the important programming is done, it is time to implement the non-vital features like auton selectors, simple gui interface for both the Controller and/or Brain, etc. If you would like to submit a feature/program request do so in the issues tab.
 
-#### VexCode Learning
+![alt text](https://github.com/ifndef-define/MVHS-Common-Code/raw/main/github-imgs/vexcode-logo.png)
+### VexCode Learning
 > Want to learn all about programming in VexCode? This folder will contain programs that will teach you the basics of programming in VexCode Pro V5. This also contains portions of code from the [VexCode Coding Series](https://www.youtube.com/@etherealrobotics7005) on the Ethereal Robotics YouTube Channel. Any questions on programming see your robotics Captian.
 
-#### PROS Code Learning
+![alt text](https://github.com/ifndef-define/MVHS-Common-Code/raw/main/github-imgs/pros-code-logo.png)
+### PROS Code Learning
 > Want to go the advanced route and learn all about programming in PROS\(Purdue Robotics Operating System\) for V5? This folder will contain programs that will teach you the basics of programming in PROS. This also contains portions of code from the [PROS Coding Series](https://www.youtube.com/@etherealrobotics7005) on the Ethereal Robotics YouTube Channel. Any questions on programming see your robotics Captian.
