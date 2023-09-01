@@ -18,10 +18,10 @@ This repository will serve three purposes;
 3) Provide Other Useful Programs regarding cool features and testing out the senors and electronics for functionality
 
 #### Repository Rules
-1) All code in this repository is **Copyright (C) of 17990 Ethereal and Metea Valley Robotics** under the MIT license. DO NOT SHARE THIS WITH OTHER ROBOTICS TEAMS OUTSIDE METEA. This can result in termination of this repository.
+1) All code in this repository is **Copyright (C) Metea Valley Robotics** under the MIT license. DO NOT SHARE THIS WITH OTHER ROBOTICS TEAMS OUTSIDE METEA. This can result in termination of this repository.
 2) You will still have to write most of the code for your robot.
 
-    Every robot is different. Know that you will have to write most of the code for your team's robot. If you have coding questions, please see your Captains or consult to the Ethereal Robotics YouTube Channel for the [VexCode Coding Series](https://www.youtube.com/@etherealrobotics7005) or [PROS Code Series](https://www.youtube.com/@etherealrobotics7005). (Yes I made these)
+    Every robot is different. Know that you will have to write most of the code for your team's robot. If you have coding questions, please see your Captains or consult to the Metea Robotics YouTube Channel for the [VexCode Coding Series](https://www.youtube.com/) or [PROS Code Series](https://www.youtube.com/). (These were made by me)
 3) You may make any changes/modifications to the code provided in this repository once you download it, however, I would recommend leaving the source code untouched, unless you know exactly what you are doing.
 4) **Any bugs you find please submit an issue with details regarding the bug so that I can address the master copy.**
 
@@ -39,8 +39,8 @@ This repository will serve three purposes;
 
 ![alt text](https://github.com/ifndef-define/MVHS-Common-Code/raw/main/github-imgs/vexcode-logo.png)
 ### VexCode Learning
-> Want to learn all about programming in VexCode? This folder will contain programs that will teach you the basics of programming in VexCode Pro V5. This also contains portions of code from the [VexCode Coding Series](https://www.youtube.com/@etherealrobotics7005) on the Ethereal Robotics YouTube Channel. Any questions on programming see your robotics Captian.
+> Want to learn all about programming in VexCode? This folder will contain programs that will teach you the basics of programming in VexCode Pro V5. This also contains portions of code from the [VexCode Coding Series](https://www.youtube.com/) on the Metea Robotics YouTube Channel. Any questions on programming see your robotics Captian.
 
 ![alt text](https://github.com/ifndef-define/MVHS-Common-Code/raw/main/github-imgs/pros-code-logo.png)
 ### PROS Code Learning
-> Want to go the advanced route and learn all about programming in PROS\(Purdue Robotics Operating System\) for V5? This folder will contain programs that will teach you the basics of programming in PROS. This also contains portions of code from the [PROS Coding Series](https://www.youtube.com/@etherealrobotics7005) on the Ethereal Robotics YouTube Channel. Any questions on programming see your robotics Captian.
+> Want to go the advanced route and learn all about programming in PROS for V5? This folder will contain programs that will teach you the basics of programming in PROS. This also contains portions of code from the [PROS Coding Series](https://www.youtube.com/) on the Metea Robotics YouTube Channel. Any questions on programming see your robotics Captian.
